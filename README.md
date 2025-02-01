@@ -1,7 +1,7 @@
 <h1>Things About Me!</h1>
 <img src=https://th.bing.com/th/id/OIP.m72F76kNE7iOESxTqQ_2rgHaE8?w=264&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7>
 
-- Hi, I’m Markell Spann1!
+- Hi, I’m Markell Spann!
 
 - I’m interested in Games, Cars and Technology.
 
