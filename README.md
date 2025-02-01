@@ -7,6 +7,8 @@
 
 - I’m currently learning how to properly program and create web pages!
 
+- I'm Just A Chill Guy fr.
+
 - <h1>Contact info</h1>
 + Number: (901)-460-2069
 + Email: Markellspann9@gaim.com
